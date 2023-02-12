@@ -3,6 +3,12 @@ Jenkins docker container with practice ...
 ## ......IN DEVELOPMENT........
 
 # Installation
+## Setup vagrant and VM
+```
+# vagrant must be installed
+vagrant up
+vagrant ssh
+```
 ## Build the Jenkins BlueOcean Docker Image
 ```
 sudo docker build -t myjenkins:1.0 .
