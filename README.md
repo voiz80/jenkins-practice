@@ -1,6 +1,5 @@
 # jenkins-practice
 Jenkins docker container on VM with practice ...
-## ......IN DEVELOPMENT........
 
 # Installation
 ## Setup vagrant and VM
