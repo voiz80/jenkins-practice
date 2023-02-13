@@ -1,5 +1,5 @@
 # jenkins-practice
-Jenkins docker container with practice ...
+Jenkins docker container on VM with practice ...
 ## ......IN DEVELOPMENT........
 
 # Installation
@@ -8,8 +8,9 @@ Jenkins docker container with practice ...
 # vagrant must be installed
 vagrant up
 vagrant ssh
+cd /vagrant
 ```
-## Build the Jenkins BlueOcean Docker Image
+## Build the Jenkins Docker Image
 ```
 sudo docker build -t myjenkins:1.0 .
 ```
