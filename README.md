@@ -14,7 +14,7 @@ cd /vagrant
 sudo docker build -t myjenkins:1.0 .
 ```
 
-## Create the network 'jenkins'
+## Create the network "jenkins"
 ```
 sudo docker network create jenkins
 ```
